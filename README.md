@@ -43,7 +43,7 @@ To set up the project, follow these steps:
 To run the chatbot, execute the following command:
 
 ```bash
-python main.py
+python src/main.py
 ```
 
 This will start the chatbot, and you can interact with it through the terminal or a web interface if implemented.
